@@ -1,1 +1,5 @@
-# policy-template1rferfv
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
